@@ -89,7 +89,7 @@ public class CreditConsumerTest {
 
 
 
-/*
+
     @Test
     public void testCase3_ok() {
         //check second range test case
@@ -117,5 +117,5 @@ public class CreditConsumerTest {
         //check evaluation that's correct
         assertThat(consumer.evaluate()).isFalse();
     }
-*/
+
 }
