@@ -29,7 +29,7 @@ public class CreditConsumerTest {
 
         //prepare - arrange
         //check first range test case
-        String name = "peter";
+        String name = "peterA";
         String email = "peter@email.com";
         Integer amount = 250000; // $250.000
         Integer quotas = 5;
